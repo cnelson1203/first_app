@@ -1,0 +1,10 @@
+.bundle
+db/*.mysql2
+log/*.log
+tmp/
+.sass-cache/
+doc/
+*.swp
+*~
+.project
+.DS_Store
